@@ -4,6 +4,14 @@ To get whole part of smart contract and backend & frontend, feel free to reach o
 You can also get frontend and backend repository from my github.
 
 
+## Core Functionalities
+1. Initialization [Admin wallet setting, Buy/Sell/Migration fee setting, Curve limit set]
+2. Pool creation [Token creation, new liquidity]
+3. Buy/Sell 
+4. Migration after bonding curve complete
+
+
+## Devnet test result
 program address
 https://solscan.io/account/3CCu4f3hXKne4i5uE7DHkiA9o4oqeAAFBNxR3BfYLivX?cluster=devnet
 
